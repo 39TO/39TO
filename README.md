@@ -4,7 +4,7 @@
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=39TO&layout=compact&count_private=true&theme=tokyonight">
 </a>
 
-## 🚀 Learning
+## 🚀 Learning Skills
 **Languages:**
 <p align="left">
     <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>  
